@@ -1,7 +1,7 @@
 # Predict_Epl_Market_Value
 Predict_Epl_Market_Value from plyer age and page views and position of payers.
 
-Some Plots doesnt show i am trying to solve problem.
+Some Plots doesnt show in github i am trying to solve the problem,but all the code is ok in jopyter notbook.
 
 Conclusion
 From OLS results we can say :
