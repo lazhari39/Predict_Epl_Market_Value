@@ -1,6 +1,8 @@
 # Predict_Epl_Market_Value
 Predict_Epl_Market_Value from plyer age and page views and position of payers.
+
 Some Plots doesnt show i am trying to solve problem.
+
 Conclusion
 From OLS results we can say :
 Player age affects to market value,because p_value= 0.002<0.05.
